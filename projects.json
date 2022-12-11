@@ -1,0 +1,63 @@
+[
+    {
+        "number": "1",
+        "cover": "https://i.ibb.co/MSmvQPb/1.png",
+        "img1": "https://i.ibb.co/NZn9nN1/12.png",
+        "img2": "https://i.ibb.co/HBSHC91/13.png",
+        "img3": "https://i.ibb.co/WD7Qttj/14.png",
+        "img4": "https://i.ibb.co/bv5JKsY/15.png",
+        "title": "Wheels On Tars",
+        "description": "To make this site i have used some technologies, Which are given. On this site, user can buy their products using their credit cards, sellers can advertise any product or add any product and can delete them individually. Admin can see everything on the site and can add anything.",
+        "technology": "Tailwind, React JS, Node Express, Stripe.js MongoDB, Firebase Authentication, Vercel.",
+        "live": "https://wheels-on-tars.web.app/",
+        "server": "https://github.com/katibur/Wheels-On-Tars-Server-Side",
+        "client": "https://github.com/katibur/Wheels-On-Tars-Client-Side"
+    },
+    {
+        "number": "2",
+        "cover": "https://i.ibb.co/HF8xzx6/2.png",
+        "img1": "https://i.ibb.co/C1vsSmm/20.png",
+        "img2": "https://i.ibb.co/dbpMmV8/21.png",
+        "img3": "https://i.ibb.co/Phv1t50/23.png",
+        "img4": "",
+        "title": "Capture The Moment",
+        "description": "This is a website for photography service and giving reviews on their services. User can review after logging in and can see only their reviews in the MY REVIEW section. Also he can delete them.",
+        "technology": "Tailwind, React JS, Node Express, MongoDB, Firebase Authentication, Vercel.",
+        "live": "https://capture-the-moment-210d2.web.app/",
+        "server": "https://github.com/katibur/Capture-The-Moment-Server-Side",
+        "client": "https://github.com/katibur/Capture-The-Moment-Client-Side"
+    },
+    {
+        "number": "3",
+        "cover": "https://i.ibb.co/M277D3S/3.png",
+        "img1": "https://i.ibb.co/M52jGMQ/30.png",
+        "img2": "https://i.ibb.co/566qhWx/31.png",
+        "img3": "https://i.ibb.co/Gsgrj0F/32.png",
+        "img4": "",
+        "title": "Tech City",
+        "description": "To cope up with the modern world,i build this website to provide people some courses, users can buy them and can download PDF from the site. Also user can have the premium versions.",
+        "technology": "Tailwind, React JS, Node Express, MongoDB, Firebase Authentication, Vercel.",
+        "live": "https://tech-city-online.web.app/",
+        "server": "https://github.com/katibur/Tech-City-Server-Side",
+        "client": "https://github.com/katibur/Tech-City-Client-Side"
+    }
+]
+
+
+https: //i.ibb.co/Gsgrj0F/32.png
+https: //i.ibb.co/566qhWx/31.png
+https: //i.ibb.co/M52jGMQ/30.png
+https: //i.ibb.co/Phv1t50/23.png
+https: //i.ibb.co/dbpMmV8/21.png
+https: //i.ibb.co/C1vsSmm/20.png
+https: //i.ibb.co/bv5JKsY/15.png
+https: //i.ibb.co/WD7Qttj/14.png
+https: //i.ibb.co/HBSHC91/13.png
+https: //i.ibb.co/NZn9nN1/12.png
+
+
+
+
+https: //i.ibb.co/MSmvQPb/1.png
+https: //i.ibb.co/HF8xzx6/2.png
+https: //i.ibb.co/M277D3S/3.png
